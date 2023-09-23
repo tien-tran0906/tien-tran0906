@@ -12,7 +12,7 @@ I started in business at a young age and ran several e-commerce websites while i
 I've worked on various projects in areas like natural language processing, deep learning, and building models from scratch. These projects showcase my dedication to learning and my desire to contribute to the exciting world of machine learning and data science.
 <br>
 <br>
-<img src = "https://wallpapers.com/images/hd/planetary-terrain-view-of-jupiter-ssrq3moj6e55ya8x.jpg" class="centered-image" width = 1000 height = 500/>
+<img src = "https://media.tenor.com/SKgYx2-x-ncAAAAd/jupiter-astronio.gif" class="centered-image" width = 1000 height = 500/>
 <br>
 <h2 align = "center"> 🖥 My Machine Learning Projects </h2> 
 
