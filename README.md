@@ -16,7 +16,7 @@ I've worked on various projects in areas like natural language processing, deep 
 <br>
 <h2 align = "center"> 🖥 My Machine Learning Projects </h2> 
 
-| 🚴‍ [Linear Regression from Scratch](https://github.com/tien-tran0906/Machine_Learning/tree/main/Linear%20Regression%20from%20Scratch)| 🏫 [Public or Private Schools Prediction](https://github.com/tien-tran0906/Machine_Learning/blob/main/%5BK%20Means%20Clustering%5D%20Public%20and%20Private%20schools.ipynb)|
+| 🚴‍ [Linear Regression from Scratch](https://github.com/tien-tran0906/Machine_Learning/tree/main/Linear%20Regression%20from%20Scratch)| 🏫 [K-Means Clustering from Scratch Public or Private Schools Prediction](https://github.com/tien-tran0906/Machine_Learning/blob/main/%5BK%20Means%20Clustering%5D%20Public%20and%20Private%20schools.ipynb)|
 | :-:| :-:| 
 | [<img src = "https://cdn.lynda.com/course/578082/578082-637199624574737751-16x9.jpg" width = 500 height = 300/>](https://github.com/tien-tran0906/Machine_Learning/tree/main/Linear%20Regression%20from%20Scratch)| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hibbing_High_School_2014.jpg/1200px-Hibbing_High_School_2014.jpg" width = 500 height = 300/>](https://github.com/tien-tran0906/Machine_Learning/blob/main/%5BK%20Means%20Clustering%5D%20Public%20and%20Private%20schools.ipynb)
 
