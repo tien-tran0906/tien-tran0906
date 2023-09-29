@@ -28,7 +28,7 @@ I've worked on various projects in areas like natural language processing, deep 
 
 <h2 align = "center"> 🧠 My Deep Learning Projects </h2> 
 
-| 🏦 [Predicting Loan Default](https://github.com/tien-tran0906/A.I/blob/main/Deep_Learning_Classification_Loan_Payback_Prediction%20(1).ipynb)| 🏡 [Seattle House Price Prediction](https://datalore.jetbrains.com/notebook/vk4OBtbBjjxxbom1Vcwq7i/jXYpvIX02wRFW1FgjI3fAW)|
+| 🏦 [Predicting Loan Default](https://colab.research.google.com/drive/1jxqdWVxfV7sJvTkzGTcOIVfW0PzaZ7VG?usp=sharing)| 🏡 [Seattle House Price Prediction](https://datalore.jetbrains.com/notebook/vk4OBtbBjjxxbom1Vcwq7i/jXYpvIX02wRFW1FgjI3fAW)|
 | :-:| :-:| 
 | [<img src = "https://firstfinancial.com.au/wp-content/uploads/2018/12/The-Earlier-the-better.jpg" width = 500 height = 300/>](https://github.com/tien-tran0906/A.I/blob/main/Deep_Learning_Classification_Loan_Payback_Prediction.ipynb)| [<img src = "https://denizen.homes/wp-content/uploads/2020/08/Gallery-3724-SW-Admiral-Way-38-1080x720px.jpg" width = 500 height = 300/>](https://datalore.jetbrains.com/notebook/vk4OBtbBjjxxbom1Vcwq7i/jXYpvIX02wRFW1FgjI3fAW)
 
