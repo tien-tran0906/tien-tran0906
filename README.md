@@ -16,30 +16,30 @@ I've worked on various projects in areas like natural language processing, deep 
 <br>
 <h2 align = "center"> 🖥 My Machine Learning Projects </h2> 
 
-| 🚴‍ [Linear Regression from Scratch](https://github.com/tien-tran0906/A.I/tree/main/Linear%20Regression%20from%20Scratch)| 🏫 [K-Means Clustering from Scratch Public or Private Schools Prediction](https://github.com/tien-tran0906/A.I/blob/main/%5BK%20Means%20Clustering%5D%20Public%20and%20Private%20schools.ipynb)|
+| 🚴‍ [Linear Regression from Scratch](https://github.com/tien-tran0906/A.I/tree/main/Linear%20Regression%20from%20Scratch)| 🏫 [K-Means Clustering from Scratch Public or Private Schools Prediction](https://github.com/tien-tran0906/A.I/blob/main/%5BK%20Means%20Clustering%20from%20Scratch%5D%20Public%20or%20Private%20School.ipynb)|
 | :-:| :-:| 
 | [<img src = "https://cdn.lynda.com/course/578082/578082-637199624574737751-16x9.jpg" width = 500 height = 300/>](https://github.com/tien-tran0906/A.I/tree/main/Linear%20Regression%20from%20Scratch)| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hibbing_High_School_2014.jpg/1200px-Hibbing_High_School_2014.jpg" width = 500 height = 300/>](https://github.com/tien-tran0906/A.I/blob/main/%5BK%20Means%20Clustering%5D%20Public%20and%20Private%20schools.ipynb)
 
-| 🏚 [Cancer Prediction](https://github.com/tien-tran0906/A.I/blob/main/%5BSupport%20Vector%20Machines%5D%20Cancer%20Prediction.ipynb)| 🌼[Classifying Iris Flower](https://datalore.jetbrains.com/notebook/vk4OBtbBjjxxbom1Vcwq7i/W6LfkENxGNYL55y8tgyDbw)|
+| 🏚 [Cancer Prediction](https://github.com/tien-tran0906/A.I/blob/main/%5BSupport%20Vector%20Machines%5D%20Cancer%20Prediction.ipynb)| 🌼[Classifying Iris Flower](https://github.com/tien-tran0906/A.I/blob/main/%5BSupport%20Vector%20Machines%5D%20Classifying%20Iris%20Flowers.ipynb)|
 | :-:| :-:| 
-| [<img src = "https://images.ctfassets.net/17o2epk8ivh7/2ZQTdBKFxvkLYhrtyeWOdg/5906eef24264641dc0d61974adfd9bfb/3840X2160_Health_and_wellness.jpg?h=1215&q=90&w=2160" width = 500 height = 300/>](https://github.com/tien-tran0906/A.I/blob/main/%5BSupport%20Vector%20Machines%5D%20Cancer%20Prediction.ipynb)| [<img src = "https://wallpaper.dog/large/10876814.jpg" width = 500 height = 300/>](https://datalore.jetbrains.com/notebook/vk4OBtbBjjxxbom1Vcwq7i/W6LfkENxGNYL55y8tgyDbw)|
+| [<img src = "https://images.ctfassets.net/17o2epk8ivh7/2ZQTdBKFxvkLYhrtyeWOdg/5906eef24264641dc0d61974adfd9bfb/3840X2160_Health_and_wellness.jpg?h=1215&q=90&w=2160" width = 500 height = 300/>](https://github.com/tien-tran0906/A.I/blob/main/%5BSupport%20Vector%20Machines%5D%20Cancer%20Prediction.ipynb)| [<img src = "https://wallpaper.dog/large/10876814.jpg" width = 500 height = 300/>](https://github.com/tien-tran0906/A.I/blob/main/%5BSupport%20Vector%20Machines%5D%20Classifying%20Iris%20Flowers.ipynb)|
 
 <hr style="border:0.01px solid blue">
 
 <h2 align = "center"> 🧠 My Deep Learning Projects </h2> 
 
-| 🏦 [Predicting Loan Default](https://colab.research.google.com/drive/1jxqdWVxfV7sJvTkzGTcOIVfW0PzaZ7VG?usp=sharing)| 🏡 [Seattle House Price Prediction](https://datalore.jetbrains.com/notebook/vk4OBtbBjjxxbom1Vcwq7i/jXYpvIX02wRFW1FgjI3fAW)|
+| 🏦 [Predicting Loan Default](https://github.com/tien-tran0906/A.I/blob/main/Deep_Learning_Classification_Loan_Payback_Prediction%20(1).ipynb)| 🏡 [Seattle House Price Prediction](https://github.com/tien-tran0906/A.I/blob/main/Deep%20Learning%20-%20Regression%20Model%20Using%20TensorFlow%20and%20Keras%20-%20Seattle%20House%20Prices%20Prediction.ipynb)
 | :-:| :-:| 
-| [<img src = "https://firstfinancial.com.au/wp-content/uploads/2018/12/The-Earlier-the-better.jpg" width = 500 height = 300/>](https://github.com/tien-tran0906/A.I/blob/main/Deep_Learning_Classification_Loan_Payback_Prediction.ipynb)| [<img src = "https://denizen.homes/wp-content/uploads/2020/08/Gallery-3724-SW-Admiral-Way-38-1080x720px.jpg" width = 500 height = 300/>](https://datalore.jetbrains.com/notebook/vk4OBtbBjjxxbom1Vcwq7i/jXYpvIX02wRFW1FgjI3fAW)
+| [<img src = "https://firstfinancial.com.au/wp-content/uploads/2018/12/The-Earlier-the-better.jpg" width = 500 height = 300/>](https://github.com/tien-tran0906/A.I/blob/main/Deep_Learning_Classification_Loan_Payback_Prediction%20(1).ipynb)| [<img src = "https://denizen.homes/wp-content/uploads/2020/08/Gallery-3724-SW-Admiral-Way-38-1080x720px.jpg" width = 500 height = 300/>](https://github.com/tien-tran0906/A.I/blob/main/Deep%20Learning%20-%20Regression%20Model%20Using%20TensorFlow%20and%20Keras%20-%20King%20County%20House%20Prices%20Prediction.ipynb)
 
 <hr style="border:0.01px solid blue">
 
 
 <h2 align = "center"> 🖥 My Natural Language Processing (NLP) Projects</h2> 
 
-| 📚 [Sentiment Analysis for Yelp Reviews](https://datalore.jetbrains.com/notebook/vk4OBtbBjjxxbom1Vcwq7i/z6804XQvMVCWACdQC3b72e)| 🤖 [Homework Assistant](https://github.com/tien-tran0906/Homework-Assistant)
+| 📚 [Sentiment Analysis for Yelp Reviews](https://github.com/tien-tran0906/A.I/blob/main/%5BNLP%5D%20-%20Classifying%20Yelp%20Reviews.ipynb)| 🤖 [Homework Assistant](https://github.com/tien-tran0906/Homework-Assistant)
 | :-:| :-:| 
-| [<img src = "https://www.searchenginejournal.com/wp-content/uploads/2020/03/15-facts-you-didn---t-know-about-yelp-5ea2da3bb2264-1280x720.png" width = 500 height = 300/>](https://datalore.jetbrains.com/notebook/vk4OBtbBjjxxbom1Vcwq7i/z6804XQvMVCWACdQC3b72e)| [<img src = "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7VQPJUBGCVJLRAHUC44G2QPQEM.jpg" width = 500 height = 300/>](https://github.com/tien-tran0906/Homework-Assistant)
+| [<img src = "https://www.searchenginejournal.com/wp-content/uploads/2020/03/15-facts-you-didn---t-know-about-yelp-5ea2da3bb2264-1280x720.png" width = 500 height = 300/>](https://github.com/tien-tran0906/A.I/blob/main/%5BNLP%5D%20-%20Classifying%20Yelp%20Reviews.ipynb)| [<img src = "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7VQPJUBGCVJLRAHUC44G2QPQEM.jpg" width = 500 height = 300/>](https://github.com/tien-tran0906/Homework-Assistant)
 
 <hr style="border:0.01px solid blue">
 
@@ -47,7 +47,7 @@ I've worked on various projects in areas like natural language processing, deep 
 
 | 🔎 [Website Summarization](https://github.com/tien-tran0906/A.I/blob/main/%5BWeb_Scraping%5D_HF_Bart_CNN_summarization_%2B_Beautiful_Soup.ipynb)|
 | :-: |
-| [<img src = "https://media.istockphoto.com/id/147860345/photo/magnifying-loupe-on-the-laptop-keyboard.jpg?s=612x612&w=0&k=20&c=zgWvn9o7VkrMJxT69AbhPdYipnTCOYy2jz8m8xvYoiI=" width = 500 height = 300/>](https://datalore.jetbrains.com/notebook/vk4OBtbBjjxxbom1Vcwq7i/z6804XQvMVCWACdQC3b72e)| 
+| [<img src = "https://media.istockphoto.com/id/147860345/photo/magnifying-loupe-on-the-laptop-keyboard.jpg?s=612x612&w=0&k=20&c=zgWvn9o7VkrMJxT69AbhPdYipnTCOYy2jz8m8xvYoiI=" width = 500 height = 300/>](https://github.com/tien-tran0906/A.I/blob/main/%5BWeb_Scraping%5D_HF_Bart_CNN_summarization_%2B_Beautiful_Soup.ipynb)| 
 
 <hr style="border:0.01px solid blue">
 
