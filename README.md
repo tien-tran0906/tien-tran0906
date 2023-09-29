@@ -37,9 +37,9 @@ I've worked on various projects in areas like natural language processing, deep 
 
 <h2 align = "center"> 🖥 My Natural Language Processing (NLP) Projects</h2> 
 
-| 📚 [Sentiment Analysis for Yelp Reviews](https://datalore.jetbrains.com/notebook/vk4OBtbBjjxxbom1Vcwq7i/z6804XQvMVCWACdQC3b72e)|
-| :-: |
-| [<img src = "https://www.searchenginejournal.com/wp-content/uploads/2020/03/15-facts-you-didn---t-know-about-yelp-5ea2da3bb2264-1280x720.png" width = 500 height = 300/>](https://datalore.jetbrains.com/notebook/vk4OBtbBjjxxbom1Vcwq7i/z6804XQvMVCWACdQC3b72e)| 
+| 📚 [Sentiment Analysis for Yelp Reviews](https://datalore.jetbrains.com/notebook/vk4OBtbBjjxxbom1Vcwq7i/z6804XQvMVCWACdQC3b72e)| 🤖 [Homework Assistant](https://github.com/tien-tran0906/Homework-Assistant)
+| :-:| :-:| 
+| [<img src = "https://www.searchenginejournal.com/wp-content/uploads/2020/03/15-facts-you-didn---t-know-about-yelp-5ea2da3bb2264-1280x720.png" width = 500 height = 300/>](https://datalore.jetbrains.com/notebook/vk4OBtbBjjxxbom1Vcwq7i/z6804XQvMVCWACdQC3b72e)| [<img src = "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7VQPJUBGCVJLRAHUC44G2QPQEM.jpg" width = 500 height = 300/>](https://github.com/tien-tran0906/Homework-Assistant)
 
 <hr style="border:0.01px solid blue">
 
