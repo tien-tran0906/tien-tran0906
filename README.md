@@ -40,9 +40,10 @@ I've worked on various projects in areas like natural language processing, deep 
 | 📚 [Sentiment Analysis for Yelp Reviews](https://github.com/tien-tran0906/A.I/blob/main/%5BNLP%5D%20-%20Classifying%20Yelp%20Reviews.ipynb)| 🤖 [Homework Assistant](https://github.com/tien-tran0906/Homework-Assistant)
 | :-:| :-:| 
 | [<img src = "https://www.searchenginejournal.com/wp-content/uploads/2020/03/15-facts-you-didn---t-know-about-yelp-5ea2da3bb2264-1280x720.png" width = 500 height = 300/>](https://github.com/tien-tran0906/A.I/blob/main/%5BNLP%5D%20-%20Classifying%20Yelp%20Reviews.ipynb)| [<img src = "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7VQPJUBGCVJLRAHUC44G2QPQEM.jpg" width = 500 height = 300/>](https://github.com/tien-tran0906/Homework-Assistant)
+
 | 🙋‍♀️ [Q&A Chatbot](https://github.com/tien-tran0906/A.I/blob/main/Q%26A%20Bot.ipynb)|
 | :-:|
-| [<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsurveysparrow.com%2Fblog%2Fadvantages-of-adding-best-chatbot-for-websites%2F&psig=AOvVaw0PhyOtgxWfNzFo_Vq8ikdi&ust=1696572549029000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKiLzLKf3oEDFQAAAAAdAAAAABAZ" width = 500 height = 300/>](https://github.com/tien-tran0906/A.I/blob/main/Q%26A%20Bot.ipynb)|
+| [<img src = "https://elearningindustry.com/wp-content/uploads/2022/12/shutterstock_1180950625.jpg" width = 500 height = 300/>](https://github.com/tien-tran0906/A.I/blob/main/Q%26A%20Bot.ipynb)|
 
 <hr style="border:0.01px solid blue">
 
