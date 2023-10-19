@@ -37,9 +37,9 @@ I've worked on various projects in areas like natural language processing, deep 
 
 <h2 align = "center"> 🖥 My Natural Language Processing (NLP) Projects</h2> 
 
-| 📚 [Sentiment Analysis for Yelp Reviews](https://github.com/tien-tran0906/A.I/blob/main/%5BNLP%5D%20-%20Classifying%20Yelp%20Reviews.ipynb)|  🖌️ [Poems Generation - Markov Model](https://github.com/tien-tran0906/A.I/blob/main/Final%20poem%20generation%20using%20Markov%20model.ipynb)
+| 📚 [Sentiment Analysis for Yelp Reviews](https://github.com/tien-tran0906/A.I/blob/main/%5BNLP%5D%20-%20Classifying%20Yelp%20Reviews.ipynb)| 🖌️ [Poems Generation - Markov Model](https://github.com/tien-tran0906/A.I/blob/main/Final%20poem%20generation%20using%20Markov%20model.ipynb)
 | :-:| :-:| 
-| [<img src = "https://www.searchenginejournal.com/wp-content/uploads/2020/03/15-facts-you-didn---t-know-about-yelp-5ea2da3bb2264-1280x720.png" width = 500 height = 300/>](https://github.com/tien-tran0906/A.I/blob/main/%5BNLP%5D%20-%20Classifying%20Yelp%20Reviews.ipynb)| [<img src = "https://ideas.ted.com/wp-content/uploads/sites/3/2017/11/ted-poetry.gif?w=750" width = 500 height = 300/>](https://github.com/tien-tran0906/A.I/blob/main/Q%26A%20Bot.ipynb)
+| [<img src = "https://www.searchenginejournal.com/wp-content/uploads/2020/03/15-facts-you-didn---t-know-about-yelp-5ea2da3bb2264-1280x720.png" width = 500 height = 300/>](https://github.com/tien-tran0906/A.I/blob/main/%5BNLP%5D%20-%20Classifying%20Yelp%20Reviews.ipynb)| [<img src = "https://ideas.ted.com/wp-content/uploads/sites/3/2017/11/ted-poetry.gif?w=750" width = 500 height = 300/>](https://github.com/tien-tran0906/A.I/blob/main/Q%26A%20Bot.ipynb)|
 
 | 🙋‍♀️ [Q&A Chatbot](https://github.com/tien-tran0906/A.I/blob/main/Q%26A%20Bot.ipynb)| 👨‍🎨 [Poets Classifier - Markov Model](https://github.com/tien-tran0906/A.I/blob/main/Final%20Poets%20classifier%20using%20Markov%20model.ipynb)
 | :-:| :-:| 
