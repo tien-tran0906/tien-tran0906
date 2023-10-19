@@ -1,6 +1,6 @@
  <h1 align = "center">Hi, I'm Tien Tran 👋</h1>
 <br>
- I'm a student at the University of Washington, and I'm passionate about <strong>Machine Learning</strong> and <strong>Data Science</strong>.  I believe these fields have a lot of room for growth and can make life easier for people in the future.
+ I'm a student at the University of Washington, and I'm passionate about <strong>Machine Learning</strong>, and especially <strong>Natural Language Processing</strong>.  I believe these fields have a lot of room for growth and can make life easier for people in the future.
 <br>
  <h2> 👩‍🎓👩‍💻 About Me 💼🎒: </h2>
  I'm close to finishing my Bachelor's Degree in Management Information Systems at the University of Washington - a degree in both Business and Computer Science.
