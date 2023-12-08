@@ -3,7 +3,7 @@
  I'm a student at the University of Washington, and I'm passionate about <strong>Machine Learning</strong>, and especially <strong>Natural Language Processing</strong>.  I believe these fields have a lot of room for growth and can make life easier for people in the future.
 <br>
  <h2> 👩‍🎓👩‍💻 About Me 💼🎒: </h2>
- I'm close to finishing my Bachelor's Degree in Management Information Systems at the University of Washington - a degree in both Business and Computer Science.
+ I'm a Junior, pursuing a Bachelor's Degree in Management Information Systems at the University of Washington - a degree in both Business and Computer Science.
 <br>
  <h2>🔧🔧 My Skills 😀😀:</h2>
 I started in business at a young age and ran several e-commerce websites while in college. I got into coding by learning Java and now I'm focusing on expanding my skills in Python, pursuing my career as a <strong>Machine Learning Engineer</strong> or a <strong>Data Scientist</strong>. My years of experience in the business world have uniquely equipped me with invaluable insights. It helps me understand data, come up with new ideas and features, and unravel customer behavior when working with machine learning algorithms.
