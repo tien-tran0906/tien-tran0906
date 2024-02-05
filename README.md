@@ -45,9 +45,9 @@ I've worked on various projects in areas like natural language processing, deep 
 | :-:| :-:| 
 | [<img src = "https://www.searchenginejournal.com/wp-content/uploads/2020/03/15-facts-you-didn---t-know-about-yelp-5ea2da3bb2264-1280x720.png" width = 500 height = 300/>](https://github.com/tien-tran0906/A.I/blob/main/%5BNLP%5D%20-%20Classifying%20Yelp%20Reviews.ipynb)| [<img src = "https://ideas.ted.com/wp-content/uploads/sites/3/2017/11/ted-poetry.gif?w=750" width = 500 height = 300/>](https://github.com/tien-tran0906/A.I/blob/main/Q%26A%20Bot.ipynb)|
 
-| 🙋‍♀️ [Q&A Chatbot](https://github.com/tien-tran0906/A.I/blob/main/Q%26A%20Bot.ipynb)| 👨‍🎨 [Poets Classifier - Markov Model](https://github.com/tien-tran0906/A.I/blob/main/Final%20Poets%20classifier%20using%20Markov%20model.ipynb)
+| 🙋‍♀️ [Q&A Chatbot - OpenAI](https://github.com/tien-tran0906/A.I/blob/main/Q%26A%20Bot.ipynb)| 👨‍🎨 [Your Personal MBA - Mistral 7B model](https://github.com/tien-tran0906/mistral_personal_mba)
 | :-:| :-:| 
-| [<img src = "https://elearningindustry.com/wp-content/uploads/2022/12/shutterstock_1180950625.jpg" width = 500 height = 300/>](https://github.com/tien-tran0906/A.I/blob/main/Q%26A%20Bot.ipynb)| [<img src = "https://media.npr.org/assets/img/2016/06/27/poetix_rgb-copy_custom-e289519fc21e2225fe3a9c9e88b0097764d9ebe2-s1100-c50.jpeg" width = 500 height = 300/>](https://github.com/tien-tran0906/A.I/blob/main/Q%26A%20Bot.ipynb)|
+| [<img src = "https://elearningindustry.com/wp-content/uploads/2022/12/shutterstock_1180950625.jpg" width = 500 height = 300/>](https://github.com/tien-tran0906/A.I/blob/main/Q%26A%20Bot.ipynb)| [<img src = "https://miro.medium.com/v2/resize:fit:1400/1*RzNYOjq6gMFHdzFuHu66xA.png" width = 500 height = 300/>](https://github.com/tien-tran0906/mistral_personal_mba)|
 
 
 
