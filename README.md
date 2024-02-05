@@ -32,6 +32,10 @@ I've worked on various projects in areas like natural language processing, deep 
 | :-:| :-:| 
 | [<img src = "https://firstfinancial.com.au/wp-content/uploads/2018/12/The-Earlier-the-better.jpg" width = 500 height = 300/>](https://github.com/tien-tran0906/A.I/blob/main/Deep_Learning_Classification_Loan_Payback_Prediction%20(1).ipynb)| [<img src = "https://denizen.homes/wp-content/uploads/2020/08/Gallery-3724-SW-Admiral-Way-38-1080x720px.jpg" width = 500 height = 300/>](https://github.com/tien-tran0906/A.I/blob/main/Deep%20Learning%20-%20Regression%20Model%20Using%20TensorFlow%20and%20Keras%20-%20King%20County%20House%20Prices%20Prediction.ipynb)
 
+| 🍚 [Classifying Rice - ResNet50 Transfer Learning](https://github.com/tien-tran0906/A.I/blob/main/RESNET_50_Transfer_learning_and_fine_tuning.ipynb)| 👁️ [Object Detection in Video]()
+| :-:| :-:| 
+| [<img src = "https://be-still-farms.com/cdn/shop/articles/Untitled_design_79_600x.jpg?v=1598383267" width = 500 height = 300/>](https://github.com/tien-tran0906/A.I/blob/main/RESNET_50_Transfer_learning_and_fine_tuning.ipynb)| [<img src = "https://www.algotive.ai/hubfs/00%20Blog/Qu%C3%A9%20es%20la%20visi%C3%B3n%20artificial%20y%20c%C3%B3mo%20funciona%20con%20la%20inteligencia%20artificial/Computervision_banner.jpg" width = 500 height = 300/>](https://github.com/tien-tran0906/A.I/blob/main/SSD_Video_Object_Detection.ipynb)
+
 <hr style="border:0.01px solid blue">
 
 
