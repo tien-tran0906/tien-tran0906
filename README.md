@@ -1,6 +1,6 @@
  <h1 align = "center">Hi, I'm Tien Tran 👋</h1>
 <br>
- I'm a current student at Georgia Tech, and I'm passionate about <strong>Machine Learning</strong>, and especially <strong>Natural Language Processing</strong>.  I believe these fields have a lot of room for growth and can make life easier for people in the future.
+ I'm a current Masters student at Georgia Tech, and I'm passionate about <strong>Machine Learning</strong>, and especially <strong>Natural Language Processing</strong>.  I believe these fields have a lot of room for growth and can make life easier for people in the future.
 <br>
  <h2> 👩‍🎓👩‍💻 About Me 💼🎒: </h2>
 I'm a first year Master's student at Georgia Tech, pursuing a M.S. in Computer Science, with a specialization in Machine Learning.
