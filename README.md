@@ -3,7 +3,7 @@
 I'm a first year Master's student at Georgia Tech, pursuing a M.S. in Computer Science, with a specialization in Machine Learning.
 <br>
  <h2>🔧🔧 My Skills 😀😀:</h2>
-I started in business at a young age and ran several e-commerce websites while in college. I got into coding by learning Java and now I'm focusing on expanding my skills in Python, pursuing my career as a <strong>Machine Learning Engineer</strong> or a <strong>Data Scientist</strong>. My years and experience in the business world, and days and nights I spent with code, I don't think there are any better combination than the understanding and passion for these two fields combined. I'm exicited to build things to make the world around me better.
+I started in business at a young age and ran several e-commerce websites while in college. I got into coding by learning Java and now I'm focusing on expanding my skills in Python, pursuing my career as a <strong>Machine Learning Engineer</strong>. My years and experience in the business world, and days and nights I spent with code, I don't think there are any better combination than the understanding and passion for these two fields combined. I'm exicited to build things to make the world around me better.
 <br>
  <h2>💻🏢 My GitHub Summary 🪐🚀:</h2>
 I've worked on various projects in areas like natural language processing, deep learning, and building models from scratch. These projects showcase my dedication to learning and my desire to contribute to the exciting world of machine learning and data science.
